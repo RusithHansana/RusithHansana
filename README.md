@@ -2,32 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=3500&pause=300&color=00FFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=WELCOME+TO+MY+ARCADE;INSERT+COIN+TO+CONTINUE...;PLAYER+1:+RUSITH;GAME+LOADING...;HI+THERE%2C+I'M+RUSITH!" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" alt="pixel art developer">
-  </a>
-</div>
-
-<!-- Neon Sign Style Container -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="background-color: #0d0d0d; border: 4px solid #9c47ff; box-shadow: 0 0 10px #9c47ff, 0 0 20px #9c47ff; border-radius: 10px; padding: 20px; margin: 20px 0;">
-          <div align="center">
-            <h2 style="color: #47fff1; text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea;">FULL STACK</h2>
-            <h2 style="color: #ffe047; text-shadow: 0 0 10px #ffd100, 0 0 20px #ffd100;">ENGINEER</h2>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
 ## 🕹️ PLAYER STATS
 
 ```
