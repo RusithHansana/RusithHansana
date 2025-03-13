@@ -6,11 +6,11 @@
 
 ```
 NAME: RUSITH
-CLASS: FULL-STACK DEVELOPER
+CLASS: MERN STACK DEVELOPER
 LEVEL: EXPERIENCED
-CURRENT QUEST: BUILDING SCALABLE WEB APPLICATIONS
-SPECIALIZATION: MERN & NEXT.JS ARCHITECTURE
-SIDE QUESTS: 🎮 GAMING | 📚 READING | 🌐 EXPLORING WEB3
+CURRENT QUEST: BUILDING SCALABLE WEB APPLICATIONS WITH MERN
+SPECIALIZATION: MONGODB, EXPRESS, REACT & NODE.JS
+SIDE QUESTS: 🎮 GAMING | 📚 READING | 🍿 WATCHING ANIME
 ```
 
 ## 🧰 INVENTORY (SKILLS & TOOLS)
@@ -26,7 +26,6 @@ SIDE QUESTS: 🎮 GAMING | 📚 READING | 🌐 EXPLORING WEB3
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -35,17 +34,16 @@ SIDE QUESTS: 🎮 GAMING | 📚 READING | 🌐 EXPLORING WEB3
         </div>
       </td>
       <td valign="top" width="50%">
-        <h3 align="center">Backend Powerhouse</h3>
+        <h3 align="center">MERN Stack Powerhouse</h3>
         <div align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/>
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/>
         </div>
       </td>
     </tr>
@@ -57,14 +55,15 @@ SIDE QUESTS: 🎮 GAMING | 📚 READING | 🌐 EXPLORING WEB3
 ```javascript
 const rusith = {
   skills: {
-    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL", "Python"],
-    frontend: ["React", "Next.js", "Redux", "TailwindCSS", "Material-UI", "SASS"],
-    backend: ["Node.js", "Express", "MongoDB", "PostgreSQL", "GraphQL", "REST API"],
+    languages: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
+    frontend: ["React", "Redux", "TailwindCSS", "Material-UI", "SASS"],
+    backend: ["Node.js", "Express", "REST API"],
+    database: ["MongoDB", "Mongoose", "Atlas"],
     deployment: ["Vercel", "Netlify", "Heroku", "AWS", "Docker"],
-    tools: ["Git", "GitHub", "VS Code", "Postman", "Figma", "Webpack", "Jest"]
+    tools: ["Git", "GitHub", "VS Code", "Postman", "Figma", "Jest"]
   },
-  architecture: ["Microservices", "MVC", "Serverless", "JAMstack"],
-  currentFocus: "Building scalable and performant web applications with Next.js",
+  architecture: ["MERN Stack", "Microservices", "MVC", "Serverless"],
+  currentFocus: "Building high-performance MERN stack applications with advanced state management",
   funFact: "I debug in my dreams and wake up with solutions!"
 };
 ```
@@ -75,11 +74,11 @@ const rusith = {
 
 ## 🏆 ACHIEVEMENTS
 
-- 🌟 Developed high-performance web applications using Next.js and React
-- 🌟 Built scalable backend systems with Node.js, Express, and MongoDB
-- 🌟 Implemented secure authentication and authorization flows
-- 🌟 Optimized application performance and reduced load times
-- 🌟 Deployed applications on cloud platforms with CI/CD pipelines
+- 🌟 Developed full-stack MERN applications with optimized performance metrics
+- 🌟 Built RESTful APIs with Express.js implementing best practices and security patterns
+- 🌟 Created advanced React frontends using hooks, context API, and Redux
+- 🌟 Designed and implemented MongoDB database schemas with complex relationships
+- 🌟 Deployed MERN applications with CI/CD pipelines on cloud platforms
 
 ## 📊 HIGH SCORES
 
@@ -105,30 +104,60 @@ const rusith = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">E-Commerce Platform</h3>
+      <h3 align="center">MERN E-Commerce Platform</h3>
       <div align="center">
         <a href="https://github.com/rusithhansana" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
         </a>
         <p>
-          <strong>Next.js • MongoDB • Stripe • Tailwind CSS</strong>
+          <strong>React • Express • MongoDB • Node.js • Stripe</strong>
         </p>
         <p>
-          Full-featured e-commerce platform with dynamic product pages, secure payment processing, and admin dashboard.
+          Full-featured e-commerce platform with product catalog, user authentication, cart functionality, and Stripe payment integration.
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Real-Time Chat Application</h3>
+      <h3 align="center">MERN Social Network</h3>
       <div align="center">
         <a href="https://github.com/rusithhansana" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
         </a>
         <p>
-          <strong>React • Socket.io • Express • MongoDB</strong>
+          <strong>React • Express • MongoDB • Socket.io • Redux</strong>
         </p>
         <p>
-          Real-time messaging app with features like user authentication, group chat, and message encryption.
+          Social platform with real-time messaging, post sharing, user profiles, and JWT authentication.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MERN Task Manager</h3>
+      <div align="center">
+        <a href="https://github.com/rusithhansana" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+        </a>
+        <p>
+          <strong>React • Express • MongoDB • Node.js • Context API</strong>
+        </p>
+        <p>
+          Productivity app with task organization, priority setting, deadline management, and team collaboration features.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">MERN Blog Platform</h3>
+      <div align="center">
+        <a href="https://github.com/rusithhansana" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+        </a>
+        <p>
+          <strong>React • Express • MongoDB • Node.js • Markdown</strong>
+        </p>
+        <p>
+          Content publishing platform with rich text editing, comment system, and user engagement metrics.
         </p>
       </div>
     </td>
