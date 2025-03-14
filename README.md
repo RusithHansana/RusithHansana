@@ -107,10 +107,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rusithhansana&theme=synthwave&background=000000&border=00FF00&stroke=00FF00&ring=FF00FF&fire=FFA500&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FF00FF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
 ## 👾 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙰𝚈𝙴𝚁 𝙼𝙾𝙳𝙴
 
 <div align="center">
