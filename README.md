@@ -14,7 +14,7 @@
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║                                                                           ║
 ║  NAME:          RUSITH                                                    ║
-║  CLASS:         MERN STACK DEVELOPER                                      ║
+║  CLASS:         FULL STACK DEVELOPER                                      ║
 ║  LEVEL:         EXPERIENCED                                               ║
 ║  MAIN QUEST:    BUILDING SCALABLE WEB APPLICATIONS                        ║
 ║  GUILD:         MONGODB, EXPRESS, REACT & NODE.JS                         ║
