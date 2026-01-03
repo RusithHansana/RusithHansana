@@ -36,7 +36,7 @@
 
 ## Currently Learning / Exploring
 
-- System design fundamentals for scalable web applications
+- System design fundamentals
 - Prompt engineering
 - Integrating AI with web and mobile applications
 
