@@ -52,7 +52,7 @@ React 19 · Three.js · @react-three/fiber · FastAPI · MediaPipe · WebSockets
 Architecture focus:
 Low-latency interaction loop designed for real-time visual feedback and spatial accuracy.
 
-[View Repo](https://github.com/RusithHansana/HandCast))
+[View Repo](https://github.com/RusithHansana/HandCast)
 ---
 
 ## Technical Stack
@@ -95,6 +95,6 @@ Docker · GitHub Actions · CI/CD
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/rusith-hansana/) 
-[Portfolio](http://www.rusithhansana.me/)  
+[LinkedIn](https://www.linkedin.com/in/rusith-hansana/)</br>
+[Portfolio](http://www.rusithhansana.me/)</br>
 [Email](rusithhansana.dev@gmail.com)
