@@ -76,7 +76,6 @@ Docker · GitHub Actions · CI/CD
 
 ## Engineering Principles
 
-- Build systems, not demos  
 - Keep architecture predictable  
 - Prefer clarity over abstraction  
 - Optimize only after measurement  
