@@ -9,7 +9,10 @@
 
 
 <p align="center">
-  <strong>Software Engineer focused on building modern web and mobile applications with Next.js, React, Flutter, and Node.js. Experienced in ERP modernization, startup projects, and AI-powered solutions.</strong>
+  <strong>
+    Software Engineer building scalable web and mobile applications.
+    Focused on clean architecture, AI integration, and real-world product development.
+  </strong>
 </p>
 
 <p align="center">
