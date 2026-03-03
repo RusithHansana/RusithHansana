@@ -30,6 +30,7 @@ Architecture focus:
 Clean separation of presentation, domain, and data layers. Designed for maintainability and scale.
 
 [View Repo](https://github.com/RusithHansana/fitgenie_app)
+
 ---
 
 ### HandCast — Gesture-Based 3D Control System
@@ -53,6 +54,7 @@ Architecture focus:
 Low-latency interaction loop designed for real-time visual feedback and spatial accuracy.
 
 [View Repo](https://github.com/RusithHansana/HandCast)
+
 ---
 
 ## Technical Stack
