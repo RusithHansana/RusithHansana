@@ -1,56 +1,100 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient"
-    alt="Animated banner"
-  />
-</p>
+# Rusith Hansana
 
-<h1 align="center">Hi, I’m Rusith</h1>
+Software Engineer building scalable web, AI-powered, and interactive systems.
 
-
-<p align="center">
-  <strong>
-    Software Engineer building scalable web and mobile applications.
-    Focused on clean architecture, AI integration, and real-world product development.
-  </strong>
-</p>
-
-<p align="center">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,flutter,redux,nodejs,express,fastapi,firebase,mongodb,docker,github" />
-  </picture>
-</p>
+Focused on clean architecture, performance, and product-driven engineering.
 
 ---
 
-## Core Technical Skills
+## Selected Projects
 
-| Category          | Skills                                                                 |
-|------------------|------------------------------------------------------------------------|
-| Languages         | JavaScript, TypeScript, Python                                         |
-| Frontend          | React, Next.js, Redux, Flutter, React Native                           |
-| Backend           | Node.js, Express.js, FastAPI                                           |
-| Databases         | MongoDB, PostgreSQL                                                    |
-| Tools & CI/CD     | Git, GitHub Actions, Docker, CI/CD                                     |
-| Cloud Services    | Firebase                                                               |
+### FitGenie — AI Personal Fitness & Nutrition App
 
+Cross-platform mobile application that generates fully personalized 7-day workout and meal plans using Google Gemini AI.
+
+Built with Flutter and Firebase using an offline-first architecture.
+
+Key highlights:
+
+- AI-driven plan generation with structured prompt design
+- Offline-first data model using Hive + Firestore sync
+- Feature-first modular architecture
+- Riverpod-based reactive state management
+- JSON validation and repository pattern for AI responses
+- Production-ready mobile UX using Material 3
+
+Tech:
+Flutter · Riverpod · Firebase · Firestore · Google Gemini API · Hive · Freezed
+
+Architecture focus:
+Clean separation of presentation, domain, and data layers. Designed for maintainability and scale.
+
+[View Repo](https://github.com/RusithHansana/fitgenie_app)
+---
+
+### HandCast — Gesture-Based 3D Control System
+
+Real-time gesture recognition system that allows users to control smart bulbs inside a 3D environment using pinch gestures.
+
+Built with a React Three.js frontend and a Python MediaPipe backend connected via WebSockets.
+
+Key highlights:
+
+- Real-time hand landmark tracking via MediaPipe
+- 3D ray casting and spatial interaction logic
+- WebSocket-based bidirectional communication
+- Gesture recognition pipeline with configurable thresholds
+- Custom 3D lighting system with performance optimizations
+
+Tech:
+React 19 · Three.js · @react-three/fiber · FastAPI · MediaPipe · WebSockets · Python
+
+Architecture focus:
+Low-latency interaction loop designed for real-time visual feedback and spatial accuracy.
+
+[View Repo](https://github.com/RusithHansana/HandCast))
+---
+
+## Technical Stack
+
+Frontend  
+React · Next.js · Flutter · TypeScript
+
+Backend  
+Node.js · Express · FastAPI · Firebase
+
+AI & ML  
+Google Gemini API · Prompt Engineering · MediaPipe
+
+Data  
+MongoDB · PostgreSQL · Firestore · Hive
+
+Infrastructure  
+Docker · GitHub Actions · CI/CD
 
 ---
 
-## Currently Learning / Exploring
+## Engineering Principles
 
-- System design fundamentals
-- Prompt engineering
-- Integrating AI with web and mobile applications
+- Build systems, not demos  
+- Keep architecture predictable  
+- Prefer clarity over abstraction  
+- Optimize only after measurement  
+- Design APIs before UI  
 
 ---
 
-## 📫 Let's Connect
+## Current Focus
 
-Feel free to check out my projects, collaborate, or just say hi!  
+- Advanced system design  
+- AI integration in production workflows  
+- Distributed backend architecture  
+- Performance optimization  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rusith-hansana/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=about.me&logoColor=white)](https://www.rusithhansana.me/) 
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rusithhansana.dev@gmail.com)
+---
 
+## Contact
 
+[LinkedIn](https://www.linkedin.com/in/rusith-hansana/) 
+[Portfolio](http://www.rusithhansana.me/)  
+[Email](rusithhansana.dev@gmail.com)
