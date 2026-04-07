@@ -8,9 +8,6 @@ Focused on clean architecture, performance, and product-driven engineering.
 
 ## Selected Projects
 
-Listed directory services
-Listed directory state
-
 ### BizAgent — AI-Powered Receptionist for Service Businesses
 
 Cross-platform mobile application that provides a 24/7 AI-powered receptionist for service-based businesses, handling FAQs, lead qualification, and automated appointments.
