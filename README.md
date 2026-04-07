@@ -8,28 +8,31 @@ Focused on clean architecture, performance, and product-driven engineering.
 
 ## Selected Projects
 
-### FitGenie — AI Personal Fitness & Nutrition App
+Listed directory services
+Listed directory state
 
-Cross-platform mobile application that generates fully personalized 7-day workout and meal plans using Google Gemini AI.
+### BizAgent — AI-Powered Receptionist for Service Businesses
 
-Built with Flutter and Firebase using an offline-first architecture.
+Cross-platform mobile application that provides a 24/7 AI-powered receptionist for service-based businesses, handling FAQs, lead qualification, and automated appointments.
+
+Built with React Native and Expo, utilizing Google Gemini AI and Google Sheets for a zero-cost CRM.
 
 Key highlights:
 
-- AI-driven plan generation with structured prompt design
-- Offline-first data model using Hive + Firestore sync
-- Feature-first modular architecture
-- Riverpod-based reactive state management
-- JSON validation and repository pattern for AI responses
-- Production-ready mobile UX using Material 3
+- AI-driven conversational booking using Gemini 2.5 Flash with structured prompt design
+- Lead qualification and FAQ handling with prompt injection protection
+- Zero-cost CRM integration via Google Sheets API (no database required)
+- Serverless Node.js backend on Vercel with sliding-window rate limiting
+- Offline resilience with local storage caching for failed synchronizations
+- Modern, accessible UI using React Native Paper (Material 3)
 
 Tech:
-Flutter · Riverpod · Firebase · Firestore · Google Gemini API · Hive · Freezed
+React Native 0.81 · Expo SDK 54 · TypeScript · Google Gemini API · Node.js · Express · Google Sheets API · Vercel
 
 Architecture focus:
-Clean separation of presentation, domain, and data layers. Designed for maintainability and scale.
+Clean separation of mobile client and serverless API layers. Implementation of service-based architecture for API communication and Context-based reactive state management.
 
-[View Repo](https://github.com/RusithHansana/fitgenie_app)
+[View Repo](https://github.com/RusithHansana/biz-agent-react-native)
 
 ---
 
@@ -66,7 +69,7 @@ Backend
 Node.js · Express · FastAPI · Firebase
 
 AI & ML  
-Google Gemini API · Prompt Engineering · MediaPipe
+Google Gemini API · LangChain · MediaPipe
 
 Data  
 MongoDB · PostgreSQL · Firestore · Hive
