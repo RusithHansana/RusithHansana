@@ -87,6 +87,7 @@ Docker · GitHub Actions · CI/CD
 
 ## Current Focus
 
+- Game development with GODOT
 - Advanced system design  
 - AI integration in production workflows  
 - Distributed backend architecture  
