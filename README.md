@@ -8,6 +8,29 @@ Focused on clean architecture, performance, and product-driven engineering.
 
 ## Selected Projects
 
+### NomadAgent — AI-Powered Travel Research Agent
+
+Cross-platform mobile application that turns natural-language trip descriptions into verified, day-by-day itineraries — researching destinations in real time and streaming progress live to the user.
+
+Built with Flutter and a Python FastAPI backend, powered by a LangGraph agent pipeline with Google Gemini AI and Tavily web search.
+
+Key highlights:
+
+- Multi-step agentic pipeline (planner → researcher → extractor → compiler) orchestrated by LangGraph with full state management
+- Real-time SSE streaming with bounded event history and monotonic cursor deltas for memory-safe progress updates
+- Intelligent web research using Tavily with hybrid relevance scoring (confidence + destination keyword matching)
+- Parallel LLM extraction via `asyncio.gather`, cutting structured venue data extraction time by ~60%
+- Tiered venue verification with type-specific weight tables and cross-task deduplication
+- Interactive map view with accurate coordinates, PDF export, and share sheet integration
+
+Tech:
+Flutter 3.11 · Dart · Riverpod · GoRouter · Python 3.10 · FastAPI · LangGraph · Google Gemini API · Tavily · Pydantic v2 · SSE-Starlette
+
+Architecture focus:
+Linear LangGraph state graph with bounded event buffer streaming. Clean separation of agent nodes (planner, researcher, extractor, compiler) with feature-based Flutter module structure and Riverpod state management.
+
+[View Repo](https://github.com/RusithHansana/nomad-agent)
+
 ### BizAgent — AI-Powered Receptionist for Service Businesses
 
 Cross-platform mobile application that provides a 24/7 AI-powered receptionist for service-based businesses, handling FAQs, lead qualification, and automated appointments.
@@ -30,30 +53,6 @@ Architecture focus:
 Clean separation of mobile client and serverless API layers. Implementation of service-based architecture for API communication and Context-based reactive state management.
 
 [View Repo](https://github.com/RusithHansana/biz-agent-react-native)
-
----
-
-### HandCast — Gesture-Based 3D Control System
-
-Real-time gesture recognition system that allows users to control smart bulbs inside a 3D environment using pinch gestures.
-
-Built with a React Three.js frontend and a Python MediaPipe backend connected via WebSockets.
-
-Key highlights:
-
-- Real-time hand landmark tracking via MediaPipe
-- 3D ray casting and spatial interaction logic
-- WebSocket-based bidirectional communication
-- Gesture recognition pipeline with configurable thresholds
-- Custom 3D lighting system with performance optimizations
-
-Tech:
-React 19 · Three.js · @react-three/fiber · FastAPI · MediaPipe · WebSockets · Python
-
-Architecture focus:
-Low-latency interaction loop designed for real-time visual feedback and spatial accuracy.
-
-[View Repo](https://github.com/RusithHansana/HandCast)
 
 ---
 
